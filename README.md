@@ -1,3 +1,5 @@
+原仓库地址：https://github.com/Kr328/ClashForAndroid
+
 ## Clash for Android
 
 A Graphical user interface of [clash](https://github.com/Dreamacro/clash) for Android
